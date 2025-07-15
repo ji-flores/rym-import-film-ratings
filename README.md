@@ -2,7 +2,7 @@
 
 (Very) Work In Progess.
 
-Simple Python tool for **import film ratings** (although it could easily be modified for all supported media types) **to a rateyourmusic.com profile**, **from a .csv** originally thought to be the one you get when exporting your film ratings from Letterboxd.
+Simple Python tool for **importing film ratings** (although it could easily be modified for all supported media types) **to a rateyourmusic.com profile**, **from a .csv** originally thought to be the one you get when exporting your film ratings from Letterboxd.
 
 Automation using Selenium. Doesn't use headless browser for the moment. Also not sure how well it will hold up upon UI changes in rym. Oh well.
 
