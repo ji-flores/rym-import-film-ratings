@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+undetected-chromedriver
+beautifulsoup4
+httpx
+pyperclip
